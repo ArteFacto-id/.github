@@ -1,4 +1,5 @@
-[Artefacto Poster](profile/Artefacto Poster.png)
+![Artefacto Poster](https://github.com/user-attachments/assets/1061146d-baaa-4b11-bfac-5de0a47e27ec)
+
 
 # 🌐 Capstone Project: [ArteFacto : Exploring Facts About Artifacts Using Image Recognition]
 
