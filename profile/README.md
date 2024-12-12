@@ -1,3 +1,6 @@
+[Artefacto Poster](https://github.com/user-attachments/assets/f05c904b-fb3b-4d61-8e4a-bd679b01f13b)
+
+
 # 🌐 Capstone Project: [ArteFacto : Exploring Facts About Artifacts Using Image Recognition]
 
 Hello there! 👋🏻 Welcome to the our repository of team **C242-PS375**! We are a team passionate about preserving history and boosting tourism through a temple statue recognition app. With this app, we seek to provide in-depth information that can enrich the tourist experience and attract people's interest in cultural heritage. 🏛️
