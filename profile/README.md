@@ -9,8 +9,8 @@ Hello there! 👋🏻 Welcome to the our repository of team **C242-PS375**! We a
 
 Our team developed ArteFacto, a personalized guide app to get to know the statues in Prambanan. With the scanning feature, users can gain interesting insights about each statue, as well as have the option to get more in-depth explanations from expert guides about the temple and its surroundings.
 
-- **Scanning Artefact**: Using machine learning models to predict weather patterns based on historical data.
-- **Switch Language**: Using machine learning models translation to switch languange app from bahasa to english.
+- **Scanning Artefact**: Using CNN models to predict weather patterns based on historical data.
+- **Switch Language**: Using machine translation to switch languange app from english to bahasa.
 - **Online Ticketing**: Monitoring soil moisture and other metrics using IoT sensors.
 - **Mobile Application**: An application that allows users to scan artifact objects in the temple and can book temple entrance tickets online.
 
